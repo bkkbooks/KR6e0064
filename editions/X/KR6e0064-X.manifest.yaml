@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6e0064/X/v1
+canonical_location: https://kanripo.org/bkk/KR6e0064/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經論〔卷十〕
+  identifiers:
+    krp: KR6e0064
+    cbeta: X03n0208
+    cbeta_old_id: X03n0208
+    authorityid: CA0001389
+    json_key: X0208
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X03/X03n0208.xml
+    old_id: X03n0208
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0064_000-X.yaml, hash: 'sha256:ff6735c44a3d0d963a4c486ac6c2aac7f24881a93a45e008f4a9055f4013000c'}
+  - {seq: 10, filename: KR6e0064_010-X.yaml, hash: 'sha256:9951563f5ea848534be0ff1bc71e668910062d9be22657e8bcac4f5098938330'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0064_000-X.markers.yaml, hash: 'sha256:f6e0e20c0b8c6fcfc214d9fe8a1035e3c5a0ecea7a4e9d0b98848c4f2e7aec4c'}
+  - {seq: 10, role: markers, filename: assets/KR6e0064_010-X.markers.yaml, hash: 'sha256:69142a95411bb083f87138db4dade43666478be9d18733b1e967eaba3ec38048'}
+table_of_contents:
+- ref:
+    seq: 10
+    marker_id: KR6e0064_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 5352
+  label: 華嚴經論卷第十
+  type: juan
+  level: 1
+hash: sha256:369344b1d0e34484a74c1839781f1efea7e0ba1ec77a4f318e12dcb4389586a1

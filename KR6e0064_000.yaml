@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0064/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經論〔卷十〕
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X03/X03n0208.xml
+    old_id: X03n0208
+hash: sha256:ff6735c44a3d0d963a4c486ac6c2aac7f24881a93a45e008f4a9055f4013000c
