@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0064_000.yaml, hash: 'sha256:ff6735c44a3d0d963a4c486ac6c2aac7f24881a93a45e008f4a9055f4013000c'}
-  - {seq: 10, filename: KR6e0064_010.yaml, hash: 'sha256:8e8e4d83e6e253c26821e4bdb4b9f874f81b397c20eb248a8c2964aa783e45a6'}
+  - {seq: 10, filename: KR6e0064_010.yaml, hash: 'sha256:9951563f5ea848534be0ff1bc71e668910062d9be22657e8bcac4f5098938330'}
   markers:
-  - {seq: 10, role: markers, filename: assets/KR6e0064_010.markers.yaml, hash: 'sha256:f50959872fd3df9eea7069b494ef290b8b00c5f73df375149cf92975f194c040'}
+  - {seq: 0, role: markers, filename: assets/KR6e0064_000.markers.yaml, hash: 'sha256:7faae08d358e74abe201eda2c3e1a4bba3f4b6a6cfd78cc8ec8150bfc25477be'}
+  - {seq: 10, role: markers, filename: assets/KR6e0064_010.markers.yaml, hash: 'sha256:4d546e43f53b0567fc1bd4eeb3f4b2ed1301ea3d4a6b9e39358b811147eee313'}
 table_of_contents:
 - ref:
     seq: 10
@@ -36,7 +37,4 @@ table_of_contents:
   label: 華嚴經論卷第十
   type: juan
   level: 1
-hash: sha256:e3cfc6239a2cb0b3c929c41d2f8c3e9cd5c63b816dca05b17011fb5f5c2cf622
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c9f5f6a1c22c77687f98928944db620430bd2f2fb6b4c80f1ca803579a7c98a2
