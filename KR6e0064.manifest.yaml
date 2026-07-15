@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0064/v1
 canonical_location: https://kanripo.org/bkk/KR6e0064/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 華嚴經論〔卷十〕
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0064_000.yaml, hash: 'sha256:ff6735c44a3d0d963a4c486ac6c2aac7f24881a93a45e008f4a9055f4013000c'}
-  - {seq: 10, filename: KR6e0064_010.yaml, hash: 'sha256:9951563f5ea848534be0ff1bc71e668910062d9be22657e8bcac4f5098938330'}
+  - {seq: 10, filename: KR6e0064_010.yaml, hash: 'sha256:b8c4e6cbade5025eb30ee8a262191e84ef01f5c91845748b9b7665eba356dfbc'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0064_000.markers.yaml, hash: 'sha256:7faae08d358e74abe201eda2c3e1a4bba3f4b6a6cfd78cc8ec8150bfc25477be'}
-  - {seq: 10, role: markers, filename: assets/KR6e0064_010.markers.yaml, hash: 'sha256:4d546e43f53b0567fc1bd4eeb3f4b2ed1301ea3d4a6b9e39358b811147eee313'}
+  - {seq: 10, role: markers, filename: assets/KR6e0064_010.markers.yaml, hash: 'sha256:c86f43c846f119991997abbe9bbac24cd7ed196000a64f00c6d1b73538d5fa1b'}
 table_of_contents:
 - ref:
     seq: 10
@@ -37,4 +37,7 @@ table_of_contents:
   label: 華嚴經論卷第十
   type: juan
   level: 1
-hash: sha256:c9f5f6a1c22c77687f98928944db620430bd2f2fb6b4c80f1ca803579a7c98a2
+hash: sha256:d989d7e5d7068a556ed3d04b0ec5ef8c76292f1a6bfdb905fc4ccfb947739847
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
